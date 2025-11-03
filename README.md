@@ -5,14 +5,6 @@
 </div>
 <br>
 	
-<h3>🌐 통합 개발 환경(IDE)</h3>
-<div align="LEFT">
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=INTELLIJIDEA&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
-</div>
-<br>
-<br>
-
 <h3>🔗 기술 스택<br></h3>
 <div align="LEFT">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -24,7 +16,7 @@
 	<img src="https://img.shields.io/badge/Vue.js-yellowgreen?style=flat&logo=Vue.js&logoColor=#4FC08D" />
 	<img src="https://img.shields.io/badge/ajax-007396?style=flat&logo=ajax&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Spring Boot-yellow?style=flat&logo=Spring Boot&logoColor=#6DB33F" />
+	<img src="https://img.shields.io/badge/Spring Boot-yellow?style=flat&logo=SpringBoot&logoColor=#6DB33F" />
 	<img src="https://img.shields.io/badge/MySQL-9cf?style=flat&logo=MySQL&logoColor=#4479A1" />
   	<img src="https://img.shields.io/badge/JPA_Hibernate -59666C?style=flat&logo=Hibernate&logoColor=white" />
   </div>
